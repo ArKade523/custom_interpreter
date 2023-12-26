@@ -1,0 +1,3 @@
+/Users/kadeangell/Code/calc/build/CMakeFiles/calc_lexer.dir
+/Users/kadeangell/Code/calc/build/CMakeFiles/edit_cache.dir
+/Users/kadeangell/Code/calc/build/CMakeFiles/rebuild_cache.dir
